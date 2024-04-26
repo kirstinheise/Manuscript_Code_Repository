@@ -1,6 +1,6 @@
 # READ ME for task-based fMRI manuscript source code and data 
 
-## Figure 2 Behavior
+## Figure 2 BEHAVIOR
 
 ## Figure 3 BOLD ACTIVATION
 
