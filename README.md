@@ -2,7 +2,7 @@
 This repository contains source code and data related to 
 _>>Reference here<<_
 
-## Source data and code available: 
+## Source data and code available for
 
 ### Figure 2 BEHAVIOR
 
