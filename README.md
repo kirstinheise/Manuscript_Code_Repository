@@ -1,5 +1,5 @@
 # _working title:_ task-based tACS-fMRI manuscript
-This repository contains source code and links to the data related 
+This repository contains source code including links to the data related to
 _>>Reference here<<_
 required for reproducing figures and analyses presented in the main manuscript and the supplemental material. 
 
